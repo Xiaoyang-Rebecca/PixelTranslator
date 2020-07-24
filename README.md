@@ -13,3 +13,14 @@
 Addition: Interactive Interface, allows to draw images in real time, and get GAN reconstruction, and classification using CNN. 
 
 Code adapted from cycleGAN https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+
+Task Distribution
+
+Group Member |	Contributions
+------| -----
+Rachel Mills |	Literature review, dataset assembly | report compilation
+Raj Shah |	GAN model study, GAN result analysis, report compilation
+Xiaoyang Li |	Image preprocessing, GAN code review, GAN implementation
+Gaurav Roy |	CNN model study, CNN result analysis, report compilation
+Aditi Singh	| GAN code review, CNN implementation, Interactive Interface building
